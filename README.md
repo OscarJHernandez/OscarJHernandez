@@ -3,7 +3,7 @@
 I am a problem-solving physics PhD data scientist leveraging my quantitative and numerical skills for data science. My work employs a range of statistical and machine learning methods to generate predictions with a risk analysis.
 
 
-__Personal website:__ [www.oscarjavierhernandez.com](www.oscarjavierhernandez.com)
+__Personal website:__ [www.oscarjavierhernandez.com](www.oscarjavierhernandez.com)  
 __Linked in:__ [https://www.linkedin.com/in/oscar-javier-hernandez/](https://www.linkedin.com/in/oscar-javier-hernandez/)
 
 
