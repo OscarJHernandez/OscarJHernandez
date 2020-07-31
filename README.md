@@ -6,6 +6,9 @@ I am a problem-solving physics PhD data scientist leveraging my analytical skill
 __Personal website:__ [www.oscarjavierhernandez.com](www.oscarjavierhernandez.com)  
 __Linked in:__ [https://www.linkedin.com/in/oscar-javier-hernandez/](https://www.linkedin.com/in/oscar-javier-hernandez/)
 
+---   
+---
+
 
 <!--
 **OscarJHernandez/OscarJHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
