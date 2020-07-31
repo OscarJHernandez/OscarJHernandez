@@ -4,6 +4,7 @@ I am a problem-solving physics PhD data scientist leveraging my quantitative and
 
 
 __Personal website:__ [www.oscarjavierhernandez.com](www.oscarjavierhernandez.com)
+__Linked in:__ [https://www.linkedin.com/in/oscar-javier-hernandez/](https://www.linkedin.com/in/oscar-javier-hernandez/)
 
 
 <!--
