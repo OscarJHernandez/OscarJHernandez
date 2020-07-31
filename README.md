@@ -1,14 +1,13 @@
-### Hi there 👋
+### Oscar Javier Hernandez 👋
+
+I am a problem-solving physics PhD data scientist leveraging my quantitative and numerical skills for data science. My work employs a range of statistical and machine learning methods to generate predictions with a risk analysis.
+
+
+__Personal website:__ [www.oscarjavierhernandez.com](www.oscarjavierhernandez.com)
+
 
 <!--
 **OscarJHernandez/OscarJHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-* Problem-solving physics PhD leveraging my quantitative and numerical skills for data science. My work employs a range of statistical and machine learning methods to generate predictions with a risk analysis.
-
-* With a background in theoretical and computational nuclear physics, I have 5+ years’ experience implementing algorithms to solve complex mathematical problems. My technical and mathematical specialization drives my passion for data science and machine learning - collecting and analyzing data sets; understanding the data and building accurate AI models to generate predictions with attention to confidence intervals.
-
-* I am a results-oriented researcher and communicator, producing 7 publications in < 5 years; delivering 5 talks and presenting 5+ posters at leading conferences in my field at both and international levels.
 
 Personal website: [www.oscarjavierhernandez.com](www.oscarjavierhernandez.com)
 Here are some ideas to get you started:
