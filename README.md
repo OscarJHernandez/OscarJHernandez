@@ -3,7 +3,7 @@
 I am a problem-solving physics PhD data scientist leveraging my analytical skills to solve challenging mathematical problems for fun and to bring tangible value to consumers. My day-to-day work employs a range of statistical and machine learning methods to generate statistical forecasts with uncertainty analysis. 
 
 
-__Personal website:__ [www.oscarjavierhernandez.com](www.oscarjavierhernandez.com)  
+__Personal website:__ [https://www.oscarjavierhernandez.com](www.oscarjavierhernandez.com)  
 __Linked in:__ [https://www.linkedin.com/in/oscar-javier-hernandez/](https://www.linkedin.com/in/oscar-javier-hernandez/)
 
 ---   
@@ -13,7 +13,7 @@ __Linked in:__ [https://www.linkedin.com/in/oscar-javier-hernandez/](https://www
 <!--
 **OscarJHernandez/OscarJHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Personal website: [www.oscarjavierhernandez.com](www.oscarjavierhernandez.com)
+Personal website: [https://www.oscarjavierhernandez.com](www.oscarjavierhernandez.com)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
