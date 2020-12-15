@@ -1,6 +1,6 @@
 ### Oscar Javier Hernandez 👋
 
-I am a problem-solving physics PhD data scientist leveraging my analytical skills to solve challenging mathematical problems for fun and to bring tangible value to consumers. My day-to-day work employs a range of statistical and machine learning methods to generate statistical forecasts with uncertainty analysis. 
+I am a problem-solving physics PhD data scientist leveraging my analytical skills to solve challenging mathematical problems for fun and profit. My day-to-day work employs a range of statistical and machine learning methods to generate forecasts with rigorous uncertainty analysis. 
 
 
 __Personal website:__ [www.oscarjavierhernandez.com](https://www.oscarjavierhernandez.com)  
