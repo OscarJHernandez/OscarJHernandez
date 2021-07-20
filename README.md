@@ -1,11 +1,9 @@
-### Oscar Javier Hernandez 👋
+### Oscar Javier Hernandez   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/oscar-javier-hernandez/)
 
 I am a problem-solving physics PhD data scientist leveraging my analytical skills to solve challenging mathematical problems for fun and profit. My day-to-day work employs a range of statistical and machine learning methods to generate forecasts with rigorous uncertainty analysis. 
 
 
 __Personal website:__ [www.oscarjavierhernandez.com](https://www.oscarjavierhernandez.com)  
-__Linked in:__ [www.linkedin.com/in/oscar-javier-hernandez](https://www.linkedin.com/in/oscar-javier-hernandez/)
-
 ---   
 ---
 
